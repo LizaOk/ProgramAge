@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\bin\Debug\ProgramAge.exe.config
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\bin\Debug\ProgramAge.exe
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\bin\Debug\ProgramAge.pdb
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.Form1.resources
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.Properties.Resources.resources
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.exe
+C:\Users\Home\source\repos\ProgramAge\ProgramAge\obj\Debug\ProgramAge.pdb
